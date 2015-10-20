@@ -1,3 +1,5 @@
+#This code was adopted from the github repo mentioned below. The code was modified to work with mongoDb and store the data there.
+
  #!/usr/bin/env python
 ''' Apple AppStore reviews scrapper
     version 2011-04-12
