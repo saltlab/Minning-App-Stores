@@ -1,0 +1,2 @@
+
+Video The camera does NOT switch from rear to front while taking a video, just doesn't happen for anyone with an android. FIX!

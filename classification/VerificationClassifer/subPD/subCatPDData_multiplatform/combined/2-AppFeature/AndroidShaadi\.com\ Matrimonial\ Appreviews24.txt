@@ -1,0 +1,2 @@
+
+Always shows all cast proposal while searching single.

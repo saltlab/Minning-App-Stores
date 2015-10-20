@@ -1,0 +1,2 @@
+Addons
+I suggest that you should be able to click on who you are following and see the amount of tweets next to their name

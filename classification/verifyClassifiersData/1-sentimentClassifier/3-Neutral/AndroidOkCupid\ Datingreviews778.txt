@@ -1,0 +1,2 @@
+
+Many obvious features missing Such as, saving dictionary between upgrades. Also, how about allowing the option to actually EDIT dictionary words under "EDIT dictionary"!?

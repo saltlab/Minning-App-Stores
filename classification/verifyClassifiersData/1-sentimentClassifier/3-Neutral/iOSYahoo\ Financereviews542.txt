@@ -1,0 +1,2 @@
+Works like advertised
+Keeps track of the stocks I want and always runs.

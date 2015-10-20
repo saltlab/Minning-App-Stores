@@ -1,0 +1,2 @@
+
+No Chromecast support.. The app works but doesn't let me cast.. Needs some improvements but a good start.

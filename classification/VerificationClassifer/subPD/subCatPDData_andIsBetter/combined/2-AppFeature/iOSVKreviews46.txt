@@ -1,0 +1,4 @@
+
+loading issue great app with great features BUT please fix the following issues..
+-wireless loading issue while the phone is already connected it shows this "error loading data".
+-music and video search.

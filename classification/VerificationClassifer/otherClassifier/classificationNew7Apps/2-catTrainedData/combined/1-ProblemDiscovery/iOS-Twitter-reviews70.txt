@@ -1,0 +1,2 @@
+notifications
+whenever I retweet something, I go back to it a few days later and I see that it's not retweeted anymore, is that a bug or?

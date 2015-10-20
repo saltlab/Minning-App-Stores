@@ -1,0 +1,2 @@
+
+Provider list not loading Can't use this app because the cable provider list won't load. Please fix this bug! Would love to have psych in the go!

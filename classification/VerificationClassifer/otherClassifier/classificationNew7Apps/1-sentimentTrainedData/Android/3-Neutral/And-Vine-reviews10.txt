@@ -1,0 +1,2 @@
+
+App fecha sozinho e trava bastante.

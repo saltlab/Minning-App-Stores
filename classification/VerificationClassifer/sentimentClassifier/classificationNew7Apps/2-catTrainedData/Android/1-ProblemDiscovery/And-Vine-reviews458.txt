@@ -1,0 +1,2 @@
+
+Fix the bug There is a bug that won't let android users upload a video to vine. It will just ask where you wanna select your video from. Please fix. I'll come back for another rading.

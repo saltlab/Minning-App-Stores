@@ -1,0 +1,2 @@
+Registration does not work
+Tried for days. Cannot create account. Continually get error "Device Check Failed". #qafail #letyourcustomersdoyourtesting

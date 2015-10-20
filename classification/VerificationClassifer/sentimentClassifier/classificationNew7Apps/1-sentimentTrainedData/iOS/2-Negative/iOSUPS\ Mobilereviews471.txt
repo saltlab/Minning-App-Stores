@@ -1,0 +1,2 @@
+Improvements Needed
+My biggest complaint is that the delivery planner should be customizable. I would prefer most recent shipments at the top rather than to scroll all the way down. On top of that, when I try to remove a shipment from weeks ago, it won't do it. I hit remove, it acknowledges but does nothing. Quite frustrating.

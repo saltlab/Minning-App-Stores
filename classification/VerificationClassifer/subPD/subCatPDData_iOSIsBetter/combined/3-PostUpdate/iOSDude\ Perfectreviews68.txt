@@ -1,0 +1,2 @@
+
+Please fix Since iOS 8 update game now doesn't load correctly and freezes. First loading screen loads wrong and game gets stuck at what now reads as a "oading." screen!

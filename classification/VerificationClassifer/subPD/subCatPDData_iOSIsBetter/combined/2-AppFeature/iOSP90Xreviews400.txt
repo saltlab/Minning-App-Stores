@@ -1,0 +1,2 @@
+
+Buggy UI Tried adding an existing workout that I started a few weeks ago. Changing settings of the workout makes no difference. The number of days counter is broken. Overall, user interface is cumbersome. Whoever designed this app is likely not using it on a day-to-day basis

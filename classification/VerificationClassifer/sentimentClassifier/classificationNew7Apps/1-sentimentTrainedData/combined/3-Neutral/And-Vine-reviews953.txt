@@ -1,0 +1,2 @@
+
+It keeps closing the app and restarting it very 2 min

@@ -1,0 +1,2 @@
+
+Bad app bad app Flight Search results stopped working. Only gives estimated arrival and departure times. Worthless

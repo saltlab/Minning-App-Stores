@@ -1,0 +1,2 @@
+Ok, but reload is broken
+Keep getting errors when I try to reload card, other than that ok, I guess

@@ -1,0 +1,2 @@
+
+Wireless only Does not work with a Viera that has a wired connection.

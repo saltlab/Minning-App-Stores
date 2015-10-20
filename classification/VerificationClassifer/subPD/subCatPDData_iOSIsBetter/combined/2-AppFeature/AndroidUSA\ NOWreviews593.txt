@@ -1,0 +1,2 @@
+
+Can't watch shows When I choose a show to watch, the app won't load the show and does not respond and has to shut down.

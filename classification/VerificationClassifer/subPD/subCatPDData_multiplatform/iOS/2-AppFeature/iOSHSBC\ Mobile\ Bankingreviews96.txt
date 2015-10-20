@@ -1,0 +1,2 @@
+
+Deficient There us no check deposit function. Every other bank App I have allows checks to be deposited using the iPhone camera. This is a major failing and the app has little value to me without this.

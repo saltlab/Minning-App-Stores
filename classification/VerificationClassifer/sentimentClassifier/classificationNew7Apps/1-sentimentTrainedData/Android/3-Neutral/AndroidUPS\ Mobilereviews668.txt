@@ -1,0 +1,2 @@
+
+Very poor implimentation This app does not work with android sharing.  If you hit share you get pop up to share a link to the app in the Play Store only to facebook.  You also can't highlight and copy a tracking number.

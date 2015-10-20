@@ -1,0 +1,2 @@
+Update issue:
+When tapping on a story most of the time will work just fine but sometimes will say that it was watched even though it didn't show. Frustrating bug that needs re coding

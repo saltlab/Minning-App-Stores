@@ -1,0 +1,2 @@
+WHAT HAPPENED?
+When sending an email of an article its now back to default subject in email where before it would out the title of the page/article. Please put back to the way it was. This new update stinks.

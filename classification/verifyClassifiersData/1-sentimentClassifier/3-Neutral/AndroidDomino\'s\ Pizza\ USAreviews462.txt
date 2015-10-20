@@ -1,0 +1,2 @@
+
+Lacks option to split bill. This app needs the option to divide the total cost of an order.

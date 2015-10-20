@@ -1,0 +1,2 @@
+Stick to web browser
+If you copy a tracking # to the clipboard, the app nicely recognizes it and offers to use it. Unfortunately, regardless if you allow it to or not, it somehow deletes the number from the clipboard, never to be pasted again. Makes me worried what other parts of the OS this app accesses AND modifies. Avoid at all costs.

@@ -1,0 +1,2 @@
+
+Album Cover Issue The latest update has album cover issues after switching songs from a different playlist. It stays on the same cover from the previous song of the previous playlist.

@@ -1,0 +1,2 @@
+
+Doesn't display curser and doesn't display every field to register

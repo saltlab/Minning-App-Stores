@@ -1,0 +1,2 @@
+
+Keeps shutting down. Whenever try to do something a bit heavy effects it just keep shutting down.

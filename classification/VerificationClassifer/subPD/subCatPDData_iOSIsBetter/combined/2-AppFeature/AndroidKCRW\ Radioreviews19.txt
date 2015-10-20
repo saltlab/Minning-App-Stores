@@ -1,0 +1,2 @@
+
+App is slow to switch to foreground, hard to exit. Audio quality seems to be low even in high quality mode.

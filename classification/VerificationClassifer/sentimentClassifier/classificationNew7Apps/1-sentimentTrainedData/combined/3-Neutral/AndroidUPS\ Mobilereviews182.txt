@@ -1,0 +1,2 @@
+
+Not Working At All Cant get past the hello screen, it just keeps flashing to a blank screen then back to the hello screen.

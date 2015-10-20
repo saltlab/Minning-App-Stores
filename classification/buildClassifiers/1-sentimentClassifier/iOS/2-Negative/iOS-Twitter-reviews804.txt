@@ -1,0 +1,6 @@
+Works great
+I like some of the features that other users are complaining about, such as the retweet button being on the main feed under each tweet.
+
+I wish Drafts weren't so hidden. Took a while to find the button for it.
+
+A recurring bug happens when you close the app. It displays a notification badge as if there are notifications waiting, but they're nowhere to be found when checking the app. (I checked both of my accounts.) When going to the home screen, you can see clearly that the badge appears at that moment. Going into the app clears it, but it reappears a split second after exiting the app. Very frustrating.

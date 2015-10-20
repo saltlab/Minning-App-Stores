@@ -1,0 +1,2 @@
+
+Videos won't load correctly Runs perfect on iPod, but completely pixelated on my Android

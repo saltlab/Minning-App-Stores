@@ -1,0 +1,2 @@
+
+Improve on update The update had a few nice things but it could be improved. When a song is playing at the bottom of the screen and you tap on it, there should be an animation. Also when I search for a song in my playlist, play the song and then clear the search, it won't play the rest of my playlist... Just stops. I've also noticed on iOS devices you can get a sample of the song by holding down on the track and thought this was a cool idea that should be included on Android devices

@@ -1,0 +1,231 @@
+setwd('/Users/monaerfani/SALTLab/research/appMining/data/R/')
+data <- read.csv(file="data/dataSet.csv",header=TRUE)
+#print(data)
+
+pdf(file="data/test.pdf")
+
+
+#positiveIos <- data$positiveIos
+#positiveAndroid <- data$positiveAndroid
+#negativeIos <- data$negativeIos
+#negativeAndroid <- data$negativeAndroid
+#neutralIos <- data$neutralIos
+#neutralAndroid <- data$neutralAndroid
+#problemDiscoveryIos <- data$problemDiscoveryIos
+#problemDiscoveryAndroid <- data$problemDiscoveryAndroid
+#featureRequestIos <- data$featureRequestIos
+#featureRequestAndroid <- data$featureRequestAndroid
+#nonInfoIos <- data$nonInfoIos
+#nonInfoAndroid <- data$nonInfoAndroid
+#successIos <- data$successIos
+#successAndroid <- data$successAndroid
+
+
+#ANDCluster <- data$AndAppsCluster
+#iOSCluster <- data$iOSAppsCluster
+
+#iOSRank <- data$ios_ratingsAllVersions_new
+#ANDRank <- data$android_ratingsAllVersions
+
+#iOSRank0 <- data$ios_0ratingsAllVersions_new
+#ANDRank0 <- data$android_0ratingsAllVersions
+
+#iOSStar <- data$ios_starsVersionAllVersions
+#ANDStar <- data$android_star_rating
+iOSStarNew <- data$ios_starsVersionAllVersions_new
+ANDStarNew <- data$android_star_rating_new
+
+#iOSStar0 <- data$ios_0starsVersionAllVersions
+#ANDStar0 <- data$android_0star_rating
+#iOSStarNew0 <- data$ios_0starsVersionAllVersions_new
+#ANDStarNew0 <- data$android_0star_rating_new
+
+#ANDPrice <- data$android_price_non0
+#iOSPrice <- data$ios_price_new_non0
+
+
+par(mar=c(5,3,4,4)+4,mgp=c(3,1,0))
+
+
+#A <- boxplot(ANDRank, iOSRank, col=c("dark grey","white"),ylab="Number of People who Rank",xlab="",names=c("AND","iOS"), notch=TRUE, outline=FALSE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#A <- boxplot(ANDStar0, iOSStar0, ANDStarNew0, iOSStarNew0, col=c("dark grey","white","dark grey","white"),ylab="Stars",xlab="",names=c("OldAND","OldiOS","AND","iOS"), notch=FALSE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#A <- boxplot(ANDPrice, iOSPrice, col=c("dark grey","white"),ylab="Price ($)",xlab="",names=c("AND","iOS"), outline=FALSE, notch=TRUE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#A <- boxplot(ANDPrice, iOSPrice, col=c("dark grey","white"),ylab="Price ($)",xlab="",names=c("AND","iOS"), notch=TRUE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#plot(ANDPrice, iOSPrice, xlab="AND Price", ylab="iOS Price", pch= 20, cex = .9, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(ANDPrice ~ iOSPrice), col="red") # regression line (y~x) 
+#lines(lowess(ANDPrice, iOSPrice), col="blue") # lowess line (x,y)
+
+#A <- boxplot(ANDCluster, iOSCluster, col=c("dark grey","white"),ylab="Cluster Size (# Apps in Clusters)", xlab="",names=c("AND","iOS"), outline=FALSE, notch=TRUE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#A <- boxplot(positiveAndroid, positiveIos, negativeAndroid, negativeIos, neutralAndroid, neutralIos, problemDiscoveryAndroid, problemDiscoveryIos, featureRequestAndroid, featureRequestIos, nonInfoAndroid, nonInfoIos, successAndroid , successIos, col=c("dark grey","white","dark grey","white","dark grey","white","dark grey","white","dark grey","white","dark grey","white","dark grey","white"),ylab="%", xlab="",names=c("AND","iOS","AND","iOS","AND","iOS","AND","iOS","AND","iOS","AND","iOS","AND","iOS"), outline=FALSE, notch=TRUE, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+
+#plot(positiveAndroid, positiveIos, xlab="Positive Android", ylab="Positive iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(positiveAndroid ~ positiveIos), col="red") # regression line (y~x) 
+#lines(lowess(positiveAndroid, positiveIos), col="blue") # lowess line (x,y)
+
+#plot(negativeAndroid, negativeIos, xlab="Negative Android", ylab="Negative iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(negativeAndroid ~ negativeIos), col="red") # regression line (y~x) 
+#lines(lowess(negativeAndroid, negativeIos), col="blue") # lowess line (x,y)
+
+#plot(neutralAndroid, neutralIos, xlab="Neutral Android", ylab="Neutral iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(neutralAndroid ~ neutralIos), col="red") # regression line (y~x) 
+#lines(lowess(neutralAndroid, neutralIos), col="blue") # lowess line (x,y)
+
+#plot(problemDiscoveryAndroid, problemDiscoveryIos, xlab="Problem Discovery Android", ylab="Problem Discovery iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(problemDiscoveryAndroid ~ problemDiscoveryIos), col="red") # regression line (y~x) 
+#lines(lowess(problemDiscoveryAndroid, problemDiscoveryIos), col="blue") # lowess line (x,y)
+
+#plot(featureRequestAndroid, featureRequestIos, xlab="Feature Request Android", ylab="Feature Request iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(featureRequestAndroid ~ featureRequestIos), col="red") # regression line (y~x) 
+#lines(lowess(featureRequestAndroid, featureRequestIos), col="blue") # lowess line (x,y)
+
+#plot(nonInfoAndroid, nonInfoIos, xlab="Non-Informative Android", ylab="Non-Informative iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(nonInfoAndroid ~ nonInfoIos), col="red") # regression line (y~x) 
+#lines(lowess(nonInfoAndroid, nonInfoIos), col="blue") # lowess line (x,y)
+
+#plot(successAndroid, successIos, xlab="Success Rate Android", ylab="Success Rate iOS", pch= 20, cex = .7, font.lab = 2, cex.lab = 1.5, font.axis = 2, cex.axis = 1.25, las = 1)
+#abline(lm(successAndroid ~ successIos), col="red") # regression line (y~x) 
+#lines(lowess(successAndroid, successIos), col="blue") # lowess line (x,y)
+
+
+#barplot(ANDCluster)
+
+#mytable <- A$stats
+#colnames(mytable)<-A$names
+#rownames(mytable)<-c('min','lower quartile','median','upper quartile','max')
+#mytable 
+#print(mytable)
+
+#print(sum(ANDCluster == 1))
+#print(sum(ANDCluster == 2))
+#print(sum(ANDCluster == 3))
+
+print(dim(data))
+
+#print(table(ANDCluster))
+#print(table(iOSCluster))
+print(summary(data))
+
+
+
+#print(t.test(iOSRank, ANDRank))
+#print(wilcox.test(iOSRank, ANDRank))
+#print(wilcox.test(iOSRank0, ANDRank0))
+#print(wilcox.test(iOSPrice, ANDPrice))
+#print(wilcox.test(iOSStar, ANDStar))
+#print(wilcox.test(iOSStarNew, ANDStarNew))
+#print(wilcox.test(iOSStar0, ANDStar0))
+#print(wilcox.test(iOSStarNew0, ANDStarNew0))
+#print(wilcox.test(iOSCluster, ANDCluster))
+#print(wilcox.test(positiveIos, positiveAndroid))
+#print(wilcox.test(negativeIos, negativeAndroid))
+#print(wilcox.test(neutralIos, neutralAndroid))
+#print(wilcox.test(problemDiscoveryIos, problemDiscoveryAndroid))
+#print(wilcox.test(featureRequestIos, featureRequestAndroid))
+#print(wilcox.test(nonInfoIos, nonInfoAndroid))
+#print(wilcox.test(successIos, successAndroid))
+
+
+
+#calculate  SD
+#print (sd(iOSRank, na.rm=TRUE))
+#print (sd(ANDRank, na.rm=TRUE))
+#print (sd(iOSRank0, na.rm=TRUE))
+#print (sd(ANDRank0, na.rm=TRUE))
+#print (sd(iOSPrice, na.rm=TRUE))
+#print (sd(ANDPrice, na.rm=TRUE))
+#print (sd(iOSStar, na.rm=TRUE))
+#print (sd(ANDStar, na.rm=TRUE))
+#print (sd(iOSStarNew, na.rm=TRUE))
+#print (sd(ANDStarNew, na.rm=TRUE))
+#print (sd(iOSStar0, na.rm=TRUE))
+#print (sd(ANDStar0, na.rm=TRUE))
+#print (sd(iOSStarNew0, na.rm=TRUE))
+#print (sd(ANDStarNew0, na.rm=TRUE))
+#print (sd(ANDCluster, na.rm=TRUE))
+#print (sd(iOSCluster, na.rm=TRUE))
+#print (sd(positiveIos, na.rm=TRUE))
+#print (sd(positiveAndroid, na.rm=TRUE))
+#print (sd(negativeIos, na.rm=TRUE))
+#print (sd(negativeAndroid, na.rm=TRUE))
+#print (sd(neutralIos, na.rm=TRUE))
+#print (sd(neutralAndroid, na.rm=TRUE))
+#print (sd(problemDiscoveryIos, na.rm=TRUE))
+#print (sd(problemDiscoveryAndroid, na.rm=TRUE))
+#print (sd(featureRequestIos, na.rm=TRUE))
+#print (sd(featureRequestAndroid, na.rm=TRUE))
+#print (sd(nonInfoIos, na.rm=TRUE))
+#print (sd(nonInfoAndroid, na.rm=TRUE))
+#print (sd(successIos, na.rm=TRUE))
+#print (sd(successAndroid, na.rm=TRUE))
+
+
+
+
+#print(rowMeans(data[,c("EclipseWFM", "FirefoxWFM")], na.rm=TRUE))
+#print(rowMeans(IndustryWFM, na.rm = TRUE))
+#qqnorm(IndustryNWFM, ylab="IndustryNWFM")
+#qqline(IndustryNWFM)
+
+
+#print(mean(iOSRank, na.rm=TRUE))
+#print(mean(ANDRank, na.rm=TRUE))
+#print(mean(ANDCluster, na.rm=TRUE))
+
+
+
+#print (shapiro.test(FirefoxWFM))
+#print (shapiro.test(FirefoxNWFM))
+#print (shapiro.test(EclipseWFM))
+#print (shapiro.test(EclipseNWFM))
+#print (shapiro.test(WikiWFM))
+#print (shapiro.test(WikiNWFM))
+#print (shapiro.test(MoodleWFM))
+#print (shapiro.test(MoodleNWFM))
+#print (shapiro.test(FFAndroidWFM))
+#print (shapiro.test(FFAndroidNWFM))
+#print (shapiro.test(IndustryWFM))
+#print (shapiro.test(IndustryNWFM))
+
+
+#mdat <- stack(data)
+#do2.aov <- aov(lm(values ~ ind, mdat))
+#print (aov(lm(values ~ ind, mdat)))
+#print (summary(lm(values~ind, mdat)))
+#print (summary(do2.aov))
+#print (TukeyHSD(do2.aov))
+
+
+#print (cor(FirefoxWFM, FirefoxNWFM, use = "complete"))
+#print (cor.test(FirefoxNWFM, FirefoxWFM, use = "complete"))
+
+
+#stats(FirefoxWFM)
+#stats(FirefoxNWFM)
+#stats(EclipseWFM)
+#stats(EclipseNWFM)
+#stats(WikiWFM)
+#stats(WikiNWFM)
+#stats(MoodleWFM)
+#stats(MoodleNWFM)
+#stats(FFAndroidWFM)
+#stats(FFAndroidNWFM)
+#stats(IndustryWFM)
+#stats(IndustryNWFM)
+#stats(ANDCluster)
+#stats(iOSCluster)
+
+#randomP(FirefoxWFM, FirefoxNWFM)
+#randomP(EclipseWFM, EclipseNWFM)
+#randomP(WikiWFM, WikiNWFM)
+#randomP(MoodleWFM, MoodleNWFM)
+#randomP(FFAndroidWFM, FFAndroidNWFM)
+#randomP(IndustryWFM, IndustryNWFM)
+
+
+dev.off()
+

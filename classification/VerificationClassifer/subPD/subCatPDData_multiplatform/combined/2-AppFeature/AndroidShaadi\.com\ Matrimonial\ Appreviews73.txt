@@ -1,0 +1,2 @@
+
+Cannot edit profile details through the android app. Whenever trying to update, results are not showing up on profile. Very disappointing.

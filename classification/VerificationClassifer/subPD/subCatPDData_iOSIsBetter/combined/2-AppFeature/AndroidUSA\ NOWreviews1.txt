@@ -1,0 +1,2 @@
+
+Bugs galore As stated by others, ads work but the show either never loads or stops randomly. Ads play over show and both audio streams competing.

@@ -1,0 +1,2 @@
+
+Sometimes the app crashes on its own. Needs more improvement and changes.

@@ -1,0 +1,2 @@
+Not laid out well
+The app uses a very small portion of the screen and the numbers are very small. I would like to see the screen the same way as stock app on iPhone. Large numbers in red or green. Hide all news until we want to see it.

@@ -1,0 +1,2 @@
+
+Does not work with Android 2.3.6 Following the latest update from HSBC, the app no longer works with Android OS ver 2,3.6

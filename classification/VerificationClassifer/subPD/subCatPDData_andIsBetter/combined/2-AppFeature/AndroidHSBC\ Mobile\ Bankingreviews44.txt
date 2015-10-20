@@ -1,0 +1,2 @@
+
+Mostly ok but does get a lot of bugs Runs fine 60% of the time but then you suddenly can't log in anymore or when you do you receive server error messages. Today I'm being asked to submit my username and basic info again as if I've never had the app before.

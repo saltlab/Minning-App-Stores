@@ -1,0 +1,2 @@
+
+Used to work App crashes every 2 minutes

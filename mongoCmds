@@ -1,0 +1,47 @@
+1-remove a field from entire collection: db.matches.update({},{$unset: {android_missing:1}}, {multi: true})
+2-update all fields in ios collection: 
+	db.iosAppsPilot.update( {}, { $rename: { 'url': 'ios_url', 
+                                         'name': 'ios_name',
+                                         'devloperName':'ios_devloperName',
+                                         'devloperUrl':'ios_devloperUrl',
+                                         'price':'ios_price',
+                                         'isFree':'ios_isFree',
+                                         'thumbnailUrl':'ios_thumbnailUrl',
+                                         'compatibility':'ios_compatibility',
+                                         'category':'ios_category',
+                                         'updateDate':'ios_updateDate',
+                                         'version':'ios_version',
+                                         'size':'ios_size',
+                                         'languages':'ios_languages',
+                                         'minimumAge':'ios_minimumAge',
+                                         'ageRatingReasons':'ios_ageRatingReasons',
+                                         'rating':'ios_rating',
+                                         'topInAppPurchases':'ios_topInAppPurchases',
+    } } 
+
+
+, {multi: true} )
+
+
+3-updated all fields in android collection:
+	db.androidAppsPilot.update( {}, { $rename: { 'app_id': 'android_app_id', 
+                                         'title': 'android_title',
+                                         'developer_name':'android_developer_name',
+                                         'category':'android_category',
+                                         'free':'android_free',
+                                         'version_code':'android_version_code',
+                                         'version_string':'android_version_string',
+                                         'installation_size':'android_installation_size',
+                                         'downloads':'android_downloads',
+                                         'star_rating':'android_star_rating',
+                                         'snapshot_date':'android_snapshot_date',
+                                         'metadata_url':'android_metadata_url',
+                                         'apk_url':'android_url'
+                                       
+    } } 
+
+
+, {multi: true} )
+
+4-remove apps without android_title:
+db.iosAppsPilot.remove({android_title:{$exists:false}})

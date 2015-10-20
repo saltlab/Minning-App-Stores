@@ -1,0 +1,2 @@
+Can't reload my card
+I tried to reload my card but it tells me that I need to enter a valid billing address. After entering my billing address, it tells me to please enter my zip code, even though I already have... Can't use the app to reload my card

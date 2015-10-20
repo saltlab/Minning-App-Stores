@@ -1,0 +1,2 @@
+
+Can't find 'raw' files (.NEF's) Just another app for applying presets to a jpeg. I was under the impression from the description that it could read raw files.  It opens the 'Gallery' on my Android tablet which only displays jpeg files.

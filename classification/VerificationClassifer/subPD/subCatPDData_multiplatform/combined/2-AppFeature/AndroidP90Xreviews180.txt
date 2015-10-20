@@ -1,0 +1,2 @@
+
+Needs work The app is a bit slow and doesn't give a confirmation when a workout is completed. There should be something on the calendar that shows what workouts are completed. It also times out if you want to 'track' the workout. Some stuff is good like the scheduling, but making it work smoothly is a problem

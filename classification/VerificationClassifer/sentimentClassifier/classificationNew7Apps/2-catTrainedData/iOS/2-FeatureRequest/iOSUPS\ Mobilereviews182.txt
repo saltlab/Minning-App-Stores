@@ -1,0 +1,2 @@
+Can't delete past items from MyChoice tab
+Please let the users delete past items from upsmychoice tab just like regular tracking tab

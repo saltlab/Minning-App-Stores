@@ -1,0 +1,4 @@
+When it wants to...
+I got the app to work once and it was nice. Every other time after that the app keeps crashing upon startup. 
+
+Unfortunate, really. This app had potential.

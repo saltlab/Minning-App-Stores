@@ -1,0 +1,2 @@
+
+the audio streaming is bad the streaming is not stable. the track seems to be downloading ok, but the playback interrupts

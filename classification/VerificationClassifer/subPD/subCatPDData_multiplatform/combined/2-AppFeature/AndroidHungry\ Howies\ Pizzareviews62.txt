@@ -1,0 +1,2 @@
+
+Can't select store Shows nearest locations but when I select it, it shows an error.

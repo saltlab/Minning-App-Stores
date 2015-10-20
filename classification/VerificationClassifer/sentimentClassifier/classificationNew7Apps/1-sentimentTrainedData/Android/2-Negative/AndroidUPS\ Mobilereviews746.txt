@@ -1,0 +1,2 @@
+
+Bad user design This new version is ridiculous. If you log in there is no place for you to input a tracking number. You have to log out to get a tracking screen. QA tester fail.

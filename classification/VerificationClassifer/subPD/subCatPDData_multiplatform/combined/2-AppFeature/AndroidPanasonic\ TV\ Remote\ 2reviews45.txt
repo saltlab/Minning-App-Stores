@@ -1,0 +1,2 @@
+
+The app does not exist completely , it remains running in the background and in notification center . Please try to fix this problem

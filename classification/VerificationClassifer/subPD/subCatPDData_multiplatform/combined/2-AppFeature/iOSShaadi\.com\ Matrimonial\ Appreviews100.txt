@@ -1,0 +1,2 @@
+
+Flawed Interface Chats don't work and every time you click outside the box, the chat text disappears! Please fix

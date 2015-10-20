@@ -1,0 +1,2 @@
+Crashing
+App crashes too frequently

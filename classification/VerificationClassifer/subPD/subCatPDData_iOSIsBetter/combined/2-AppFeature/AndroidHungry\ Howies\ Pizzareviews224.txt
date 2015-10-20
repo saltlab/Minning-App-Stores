@@ -1,0 +1,2 @@
+
+Registration process is frustrating There wasn't any documentation on appropriate passwords and validation errors show up in a modal pop-up without any identification of the field with the error. The app created my account with validation errors present but none of the passwords I used worked. It said my email was already in use but since I've never been to their site they aren't using email validation. I suspect the app is insecure and I don't recommend using it.

@@ -1,0 +1,2 @@
+
+Doesn't load app The app used to work fine, but now it's stuck in a loop on the "hello" screen and just won't start.

@@ -1,0 +1,2 @@
+
+Stopped New version no longer works on my Samsung Galaxy S4. Any time I try to run the app, Android says "Spotify has stopped."

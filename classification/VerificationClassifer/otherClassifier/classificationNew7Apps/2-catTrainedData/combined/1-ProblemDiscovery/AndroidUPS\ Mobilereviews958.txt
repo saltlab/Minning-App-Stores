@@ -1,0 +1,2 @@
+
+Very Useful, but... I am a business frequently shipping on my ups account, and found this app hoping to send pdf labels to my computer for later. The program did the job very well, with one exception. The search address book function did not work well at all. It should be updated to search anywhere in the saved name, not just the first letters. For example I should be able to search "home depot" even if searching for "THE home depot"

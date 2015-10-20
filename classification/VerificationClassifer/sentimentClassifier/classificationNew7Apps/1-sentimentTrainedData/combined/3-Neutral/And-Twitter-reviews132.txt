@@ -1,0 +1,2 @@
+
+In mobile notification section of app settings,I can never enable any option--always throws 'there was a problem updating notification setting',please fix this issue

@@ -1,0 +1,2 @@
+
+Improvement req. Why one cant cancel invitation send by him/her immediately after sending it. Sometimes while scrolling the connect button get clicked and invitation is sent unwillingly. This creates confusion at other end. Its my invitation. I can cancel it anytime.

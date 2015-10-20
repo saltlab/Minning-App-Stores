@@ -1,0 +1,4 @@
+135 Megabytes?
+The app performs well but why is it SOOOO huge?  Memory is tough to come by.  My email app with all my emails stored is smaller.
+
+You guys need to refactor your code or something?  Is there some super awesome hidden feature that takes up 100MB that I am unaware of?

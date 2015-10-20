@@ -1,0 +1,2 @@
+
+worked once It connected and worked once and seemed really neat. But now all I get is "connection closed" every time I try to connect to my Mac.

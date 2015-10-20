@@ -1,0 +1,2 @@
+
+Not flexible The app needs to be able to adapt to change in days for working out. Also, marking your workout complete doesnt guarantee that your workout is saved. Please fix.

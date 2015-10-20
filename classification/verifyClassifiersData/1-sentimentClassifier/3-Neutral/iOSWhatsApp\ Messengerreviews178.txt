@@ -1,0 +1,2 @@
+Read messages still show delivered
+This has been happening for a month. Messages that I sent does not show under Read even if the other person replies. They just show delivered

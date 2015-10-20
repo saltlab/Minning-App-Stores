@@ -1,0 +1,2 @@
+
+The future In the future, I wish I could be able to edit group active times as the administrator. Example if I want to control when members of my group can send messages eg 8am to 6pm.

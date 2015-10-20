@@ -1,0 +1,2 @@
+
+Nice to see 64-bit support. Well, it already supported 64-bit, but I had to download the app manually because the Play Store kept telling me it was incompatible. Nice to see I can get actual updates now. ;)

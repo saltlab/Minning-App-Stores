@@ -1,0 +1,2 @@
+
+Minor improvement that would make the app better When I favorite people on Vine, can I get a feed of their vines instead of a list of who posted a vine, it would be more efficient then repeating the process of having to tap on the vine, going to that vine, and then watching the it then going back the the list.

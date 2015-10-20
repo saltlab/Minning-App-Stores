@@ -1,0 +1,2 @@
+Pretty awesome.
+It just needs options for image compression when you save, or to be more precise, it needs options for less image compression when you save.

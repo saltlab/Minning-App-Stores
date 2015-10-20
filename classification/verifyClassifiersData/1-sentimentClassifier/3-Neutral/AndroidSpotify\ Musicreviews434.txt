@@ -1,0 +1,2 @@
+
+Cannot disable push notifications I would like to disable most if not all of the push notifications. The disable all feature does not work and the settings do not save as I change them. I keep getting "Sorry we couldn't save your settings. Please try again later". EDIT: I can toggle the notifications on and off but I can only do one at a time and then must back out and go back into that menu to toggle another or I will get that message above ^

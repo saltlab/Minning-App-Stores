@@ -1,0 +1,2 @@
+
+Broken update Latest update force closes on older Android versions. Used to work; no longer.

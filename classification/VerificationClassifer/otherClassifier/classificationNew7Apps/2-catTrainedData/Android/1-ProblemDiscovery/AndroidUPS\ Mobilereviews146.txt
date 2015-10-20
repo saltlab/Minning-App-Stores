@@ -1,0 +1,2 @@
+
+Continually flashes Hello screen Won't open app.  Keeps flashing the Hello Screen. On Samsung Galaxy Note 3, running latest Lolipop version of Android.

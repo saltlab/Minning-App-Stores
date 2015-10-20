@@ -1,0 +1,2 @@
+
+Update broke the app. Hangs on the loading new content screen.

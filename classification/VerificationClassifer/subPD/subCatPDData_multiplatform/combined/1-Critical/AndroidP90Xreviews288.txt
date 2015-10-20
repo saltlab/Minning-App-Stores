@@ -1,0 +1,2 @@
+
+Fails to keep track of workouts and constantly dumps info. While I love the p90x workout and will continue to utilize it, this app is a pain that offers very little help until many major bugs are fixed. It is a halfassed attempt at best in its current state.

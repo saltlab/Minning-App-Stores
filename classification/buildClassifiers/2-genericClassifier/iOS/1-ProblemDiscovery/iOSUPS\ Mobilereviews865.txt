@@ -1,0 +1,9 @@
+Clipboard
+This UPS app checks your Clipboard looking for a tracking number and asks if it can use the number. 
+
+I am aware that my devices send out a lot of info when I sign onto wi-fi or go online, but the data in my clipboard memory should not be part of that data.  Why would UPS even consider looking at what I have in memory??
+Who the heck writes over clipboard memory every time they use it?
+
+I sometimes copy/paste entire documents, financial statements, pics, passwords, etc. 
+
+Instant Delete, and will suggest shippers to use someone else!!!

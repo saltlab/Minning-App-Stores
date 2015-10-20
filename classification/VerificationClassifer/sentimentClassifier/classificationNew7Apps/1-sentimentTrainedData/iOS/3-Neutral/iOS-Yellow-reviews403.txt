@@ -1,0 +1,3 @@
+Goose Chase Frustration
+Does not recognize common sense directions and current roads thus making needless goose chases. 
+Needs compass points to indicate heading.

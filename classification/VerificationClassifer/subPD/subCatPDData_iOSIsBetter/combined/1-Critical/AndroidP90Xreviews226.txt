@@ -1,0 +1,2 @@
+
+Won't Save Tracking Every time I start the tracking, log everything and hit done it says Error Can't Load and then the program stops. Droid Razr

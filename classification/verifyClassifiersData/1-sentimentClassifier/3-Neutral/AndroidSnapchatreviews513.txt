@@ -1,0 +1,2 @@
+
+It shows my contact list is empty Even though I have many contacts on my phone, the app doesn't fetch them on my HTC Desire 500. Everything else works fine.

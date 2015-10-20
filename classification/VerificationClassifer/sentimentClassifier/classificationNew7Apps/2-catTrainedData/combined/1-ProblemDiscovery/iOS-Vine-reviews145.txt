@@ -1,0 +1,2 @@
+A problem that needs to be solved
+Every time I try to scroll down for old re-vines the app crashes

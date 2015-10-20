@@ -1,0 +1,2 @@
+Average
+Standard functionality. Would be nice to be able to delete past deliveries so that the interface isn't cluttered with extra information that is long out of date.

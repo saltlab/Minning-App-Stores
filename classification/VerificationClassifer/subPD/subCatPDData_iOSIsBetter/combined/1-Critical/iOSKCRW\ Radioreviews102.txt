@@ -1,0 +1,2 @@
+
+App keeps crashing. After this latest update it seems like it crashes even more than it used to. I am using an iPhone 5 on fast WiFi there should be no issues.

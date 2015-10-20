@@ -1,0 +1,2 @@
+
+Freezes on load screen Works fine on Samsung s5 freezes on nexus7

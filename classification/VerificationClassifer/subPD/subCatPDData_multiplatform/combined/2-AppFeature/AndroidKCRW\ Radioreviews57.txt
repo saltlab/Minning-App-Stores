@@ -1,0 +1,2 @@
+
+An improved version, but... it won't close on newest version of Android.  It only closes when it times out and stops unexpectedly.

@@ -1,0 +1,2 @@
+
+Needs fixing After the new update, it crashes upon opening.

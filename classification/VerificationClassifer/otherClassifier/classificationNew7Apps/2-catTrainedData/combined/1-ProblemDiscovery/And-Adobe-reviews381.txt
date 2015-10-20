@@ -1,0 +1,2 @@
+
+Fix It doesn't let me enter the app if I try a message will pop up saying unfortunately the app has stopped,  please fix

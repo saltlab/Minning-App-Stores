@@ -1,0 +1,2 @@
+
+Selection tool does not work after last upgrade.

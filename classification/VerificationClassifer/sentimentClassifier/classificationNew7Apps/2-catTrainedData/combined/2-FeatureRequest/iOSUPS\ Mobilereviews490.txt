@@ -1,0 +1,2 @@
+App used to be better
+Before if you tracked a package it maintained a list of your tracked items. Remove it and it was gone. Now you are presented with a daily calendar of deliveries that goes back over a month but stops at 'today'.  Most end users prefer to know when their packages are arriving. This has a feel of shipping side logistics, needing to know when packages have been delivered. Other issues: No swipe to deleted... Heck the remove button doesn't even work.  UI looks good but i'd prefer the old version of the app.

@@ -1,0 +1,2 @@
+
+Unstable notifications App notifications are not received when app is in background for long time. Please improve app notifications stability.

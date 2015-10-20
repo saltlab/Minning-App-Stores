@@ -1,0 +1,2 @@
+
+I make a playlist and it shuffles then starts playing random songs and will not let me skip it how do i prevent this

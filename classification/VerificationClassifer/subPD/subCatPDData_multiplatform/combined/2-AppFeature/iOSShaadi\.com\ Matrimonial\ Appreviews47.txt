@@ -1,0 +1,2 @@
+
+Basic functionality issues Several annoying little function problems, shows clearly this app was made off the top of your head, not thought out at all. For example, once you add someone to the "maybe list", you can never remove them!

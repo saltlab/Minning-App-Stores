@@ -1,0 +1,2 @@
+
+Lives error and suggestion While fighting an opponent, sometimes he dies before his health went entirely down. In PvP, I assume this is what results in a "lives error". Also, the Undead Smokewraith would like to be able to change it's name, for there are many other possibillities I'd like to check out.

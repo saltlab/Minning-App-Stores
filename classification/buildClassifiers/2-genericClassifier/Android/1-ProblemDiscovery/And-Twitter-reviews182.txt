@@ -1,0 +1,2 @@
+
+It will be okay if the app doesn't crash everytime. It's really annoying when it closes suddenly and your tweets dissapear.

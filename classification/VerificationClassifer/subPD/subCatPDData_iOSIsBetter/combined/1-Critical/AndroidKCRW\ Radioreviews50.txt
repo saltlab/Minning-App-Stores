@@ -1,0 +1,2 @@
+
+App is poorly implemented Issues: the app never closes, has trouble loading screens when reopened, requires force-close from settings menu, has buffering issues, is difficult to stop streaming once started, returning to app via status bar does not return you to current programming (reloads main screen instead). Generally speaking, the app is very poorly implemented. Hope they fix everything in the next version.

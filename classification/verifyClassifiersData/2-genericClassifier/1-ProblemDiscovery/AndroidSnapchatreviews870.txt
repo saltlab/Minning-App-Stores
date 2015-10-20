@@ -1,0 +1,2 @@
+
+Fix soon Snaps wont send  or open when connected  to WiFi.  Only till I  disconnect  from my WiFi  and use my mobile data will the app works.

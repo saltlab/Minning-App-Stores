@@ -1,0 +1,2 @@
+Annoying UX
+The app works fine but there is one thing I noticed that is absolutely annoying and suggests a lack of understanding of a good user experience. The Delivery Planner page is sorted in ascending order of date! Which means I have to scroll down through 20+ items before I see the most recent delivery records. Please please sort this in descending order of date (most recent at the top)!

@@ -1,0 +1,2 @@
+
+Bug fix maybe? Game looks pretty sweet, but it will never open. Always shuts off at the main screen.

@@ -1,0 +1,6 @@
+
+One minor change.. This app is pretty good. It will quit on you once in a while during a workout, but every time I went back in all my info was still in there. 
+
+My main issue though is the information it displays for past workouts. Let’s say your on the 2nd week of a workout, your on the first move, at the bottom of the app it shows you how many reps you did of that move last workout. But, instead of displaying the number of reps you did in the 1st round of that exercise, which is the round your on for the 2nd week at the moment,  it shows the amount of reps you did of that exercise during the last round of the day. So if you do each exercise for 3 rounds, instead of seeing the number of reps you did of that exercise in that specific round last workout, it shows you how many reps you did in the previous round. 
+
+I need to know how many reps I did in that specific round of the exercise to improve. Seeing I only did 5 push ups in the last round of last weeks exercise doesn’t help me know how many I did in the first round of last weeks exercise, so I can push myself to do more this week of the first round. Fix this and it would easily be 4 stars.

@@ -1,0 +1,2 @@
+
+Unusable on android, Error selecting store location Every time I try to use this app I get an error code 201 when selecting the store location and I can't go any further.  Must be an android issue when it updated because it used to work great.  Still works fine on my husband's Windows phone.

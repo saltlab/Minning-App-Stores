@@ -1,0 +1,2 @@
+Won’t let me sign in
+First, it wouldn’t update my card balances. So I decided to sign out, and it wouldn’t let me sign back in because of “gateway timeout.” Even after uninstalling it and changing my password, it still won’t work.

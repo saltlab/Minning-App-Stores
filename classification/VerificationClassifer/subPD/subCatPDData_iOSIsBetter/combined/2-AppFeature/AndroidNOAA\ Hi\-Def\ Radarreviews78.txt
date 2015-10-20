@@ -1,0 +1,2 @@
+
+Location memory The app needs to remember the previous location, every time I open it It shows the whole USA instead of remembering the location, please fix

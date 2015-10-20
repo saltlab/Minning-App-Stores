@@ -1,0 +1,2 @@
+
+No notifications Not receiving any notifications, seems like the background service does not work properly, it doesn't stay in the running programs.

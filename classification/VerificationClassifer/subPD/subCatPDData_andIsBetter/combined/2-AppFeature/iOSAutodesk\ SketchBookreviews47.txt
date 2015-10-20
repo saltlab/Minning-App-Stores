@@ -1,0 +1,2 @@
+
+No help or documentation, stuck on single document size There doesn't appear to be a way to change the size/dimensions of the document. I found out only by accident that if you pinch to zoom out far enough, you'll see an overview of your documents, where it'll show the dimensions of the paper. I want to customize this so I can make pages to print. I want to actually use this app but right now it's just frustrating and limited.

@@ -1,0 +1,3 @@
+"X" Out The Update
+Every time I try to "x" out a suggested tweet, the app closes. Restarted iPhone, logged out/in to Twitter, uninstall/reinstall app, still the same issue.
+iPhone 5S iOS 8.4

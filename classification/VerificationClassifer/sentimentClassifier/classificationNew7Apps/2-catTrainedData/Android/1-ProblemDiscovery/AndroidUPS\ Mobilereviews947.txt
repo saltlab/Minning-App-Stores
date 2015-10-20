@@ -1,0 +1,2 @@
+
+Was working great but.... Most recent update as of this post is force closing when trying to click next at EULA language select.  I have relied heavily on this app to locate drop boxes to send off shipments in different cities daily, and now have to manually search which is a time consuming issue.

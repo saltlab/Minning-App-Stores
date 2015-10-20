@@ -1,0 +1,2 @@
+
+Last updated doesn't work as well Still with the same bug than the last update.  The  bug  make you see comments in a loop into a topic of communities. It is like after you see the last page of the topic you start to see the first page again like a dejavu.

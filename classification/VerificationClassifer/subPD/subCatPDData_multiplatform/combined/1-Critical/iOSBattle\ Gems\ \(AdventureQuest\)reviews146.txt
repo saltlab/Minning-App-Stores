@@ -1,0 +1,2 @@
+
+Force closing It keeps force closing every maybe 60 seconds even after the update

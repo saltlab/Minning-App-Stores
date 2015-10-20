@@ -1,0 +1,2 @@
+
+NETWORK ERROR Network error always popub when I tried to connect to the computer

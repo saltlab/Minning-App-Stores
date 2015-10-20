@@ -1,0 +1,2 @@
+
+It starts the show and freezes at 9 seconds. Every show does it. Fix it please or tell me how.

@@ -1,0 +1,2 @@
+
+It needs proper optimization. Sometimes crashes when you're choosing a photo to send

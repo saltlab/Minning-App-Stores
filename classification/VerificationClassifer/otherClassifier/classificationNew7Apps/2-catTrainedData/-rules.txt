@@ -1,0 +1,14 @@
+
+Our categories are:
+
+1- Problem Discovery: reviews describing issues with the app or unexpected behaviours. Such as functional flaw that produces incorrect or unexpected result, performance flaw that degrades the performance of Apps.
+
+2- Feature Request: reviews expressing ideas, suggestions or needs for improving or enhancing the app or its functionalities. Such as requests to add/modify features. Requests to remove advertisements/notifications. Requests to remove permissions 
+3- Others:
+- Non-informative reviews 
+- Pure user emotional expression
+- Descriptions of (apps, features, actions, etc.): Information Giving are reviews that inform or update users or developers about an aspect related to the app. 
+- Questions and inquiries: Information Seeking are reviews related to attempts to obtain information or help from other users or developers.
+
+
+

@@ -1,0 +1,2 @@
+
+Buggy This app doesnt support credit cards that expire past 2015. It recently put in 2016 but just to tease and infuriate me since while 2012 can be selected on the drop down menu it does not change the date in the field. Sloppy programming.

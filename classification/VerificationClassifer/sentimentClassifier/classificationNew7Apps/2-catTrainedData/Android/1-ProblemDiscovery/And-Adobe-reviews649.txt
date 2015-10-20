@@ -1,0 +1,2 @@
+
+Can't access gallery When clicking gallery inside the app, the app freezes (on OnePlus One CM12s)

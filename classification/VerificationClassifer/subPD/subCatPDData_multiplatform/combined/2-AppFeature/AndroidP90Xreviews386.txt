@@ -1,0 +1,2 @@
+
+App is buggy at times Freezes and doesn't consistently keep track of completed workouts.

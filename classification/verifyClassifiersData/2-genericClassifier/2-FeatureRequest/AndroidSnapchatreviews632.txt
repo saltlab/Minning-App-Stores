@@ -1,0 +1,2 @@
+
+Consumes alot of data Instead of loading the recent snaps we should have the option to set either to auto load the recent snap more choose which snap to load as it consumes alot of data by auto loading

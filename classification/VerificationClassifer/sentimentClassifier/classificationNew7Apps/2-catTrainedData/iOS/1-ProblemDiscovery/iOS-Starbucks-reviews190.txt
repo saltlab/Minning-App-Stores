@@ -1,0 +1,2 @@
+Not authorized error
+Error whey trying to choose favorite store. Please fix. It's been a year

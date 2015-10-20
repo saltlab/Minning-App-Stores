@@ -1,0 +1,2 @@
+
+Weird This app works for the most part. But for some reason I won't always get a notification when I have a new snap. And then sometimes after I look at the snap, I'll get the notification about it like 5 minutes later.

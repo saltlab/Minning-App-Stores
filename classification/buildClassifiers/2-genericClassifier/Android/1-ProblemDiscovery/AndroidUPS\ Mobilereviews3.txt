@@ -1,0 +1,2 @@
+
+Delivery Options fails Settings, Delivery Options, fails to find alternative UPS drop off points.  Yet find locations works OK. I'm currently waiting for a package and would like to setup an alternative drop off point if UPS fail to deliver.

@@ -1,0 +1,2 @@
+
+Unfortunately bluetooth share has stopped Gd app, but now crashing every song, which seems to be related to the ip address stack limit reached.if this is being caused by the app then spotify will be losing lots of premiun users unless they sort it soon.the error is driving me nuts. In fact now looking elsewhere :'(

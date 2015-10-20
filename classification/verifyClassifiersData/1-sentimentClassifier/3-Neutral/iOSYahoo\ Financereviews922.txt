@@ -1,0 +1,2 @@
+Quick and easy
+My go to App for quick view of current market conditions and quick quotes. Also provides relevant market news and news by stock ticker.

@@ -1,0 +1,2 @@
+Paying problems.
+When I click on pay, the picture of the card isn't there. When I click on the area where it should be for the bar code, it doesn't show up either.

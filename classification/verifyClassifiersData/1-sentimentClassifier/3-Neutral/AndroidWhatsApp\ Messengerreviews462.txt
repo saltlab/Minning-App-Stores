@@ -1,0 +1,2 @@
+
+Can't disable popups on lolipop Despite selecting the "no popups" in the settings you still get a banner when another app is open.

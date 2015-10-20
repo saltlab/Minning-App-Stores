@@ -1,0 +1,2 @@
+Fix the bug
+Wont let me look at stories if i click on a story it just closes out

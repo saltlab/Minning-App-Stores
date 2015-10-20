@@ -1,0 +1,2 @@
+
+Broke hard Moto G, 4.4.4 Kitkat - Opening the app just loops the "Hello" screen over and over. No longer useable.

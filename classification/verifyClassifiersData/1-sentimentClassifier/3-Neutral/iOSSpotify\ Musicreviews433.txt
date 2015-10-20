@@ -1,0 +1,2 @@
+Can no longer delete songs off of playlist?
+The option to remove a song from my playlist has disappeared. I press the (...) next to the song, and there's no option to delete it.

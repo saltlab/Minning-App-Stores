@@ -1,0 +1,2 @@
+
+Please fix! Was working great until the most recent update. Now the app keeps disconnecting whatever Bluetooth device it's paired to. - galaxyS3

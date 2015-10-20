@@ -1,0 +1,2 @@
+
+App gone wrong! At the beginning of the order you put in the correct store address. It changes the final store destination and there's no way to edit it from the pre checkout screen. Really really annoying

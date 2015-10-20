@@ -1,0 +1,2 @@
+
+Not smooth transitions in the loop I bought this app thinking it was going to have the best animation loop, but it was totally the opposite. The transitions are not smoth, actually the animation loop is displayed in three frames only, so visually looks like the rain disappear from one area and then it is shown in another place on the map. You dont get the sense of movement. Please fix that and it will be the best weather app.

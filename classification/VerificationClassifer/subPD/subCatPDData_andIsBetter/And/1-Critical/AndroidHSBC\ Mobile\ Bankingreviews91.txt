@@ -1,0 +1,2 @@
+
+Latest Android System Webview is incompatible If you are on Lollipop, the latest Webview causes the app to crash after login. Temporary solution is to uninstall the updates to Webview until HSBC fixes the app.

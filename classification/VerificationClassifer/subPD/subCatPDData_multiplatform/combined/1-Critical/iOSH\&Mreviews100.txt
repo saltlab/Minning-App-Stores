@@ -1,0 +1,2 @@
+
+App keeps crashing when trying to enter credit card info I tried making an order but app gets stuck when trying to enter the card info. Otherwise app is great, but the credit card page is broken and unable to make purchases.

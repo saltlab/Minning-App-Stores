@@ -1,0 +1,2 @@
+
+Doesn't work on iPhone 6/iOS8 The app freezes on the loading screen on iPhone6/iOS 8

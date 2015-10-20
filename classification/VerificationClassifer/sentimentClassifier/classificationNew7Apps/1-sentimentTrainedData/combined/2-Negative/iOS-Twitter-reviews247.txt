@@ -1,0 +1,2 @@
+Terrible version
+The app simply does not run well lately. The layout glitches out and I'm not able to tap on the search bar or compose tweet sometimes because of it. Doesn't respond to my actions quickly, like searching or trying to switch accounts. Fix it.

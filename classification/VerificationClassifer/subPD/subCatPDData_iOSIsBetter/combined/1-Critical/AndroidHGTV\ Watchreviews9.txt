@@ -1,0 +1,2 @@
+
+Doesn't work Everytime I start it it tells me update required.  When I click to update it the app crashes.

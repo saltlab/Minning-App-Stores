@@ -1,0 +1,3 @@
+
+Freezes on startup The app keeps freezing on startup with only the header showing up. Have to kill the app multiple time before it actually starts. 
+Also, it is difficult to scroll through the chat/search list as it keep opening the profile when you tap to scroll up or down.

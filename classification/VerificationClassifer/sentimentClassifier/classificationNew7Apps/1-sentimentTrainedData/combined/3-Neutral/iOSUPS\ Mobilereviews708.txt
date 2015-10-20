@@ -1,0 +1,2 @@
+Unable to track status
+I enter my package info via the website and everything shows up fine in the app. However when I click on a package to get the details it gives me one of two messages almost every time: either "Please enter valid tracking number" (which is a bug because I've already entered the correct number via the website) or "Cannot connect to server". Maybe this app isn't built for iOS6, but regardless isn't doesn't allow me to actually track package details.

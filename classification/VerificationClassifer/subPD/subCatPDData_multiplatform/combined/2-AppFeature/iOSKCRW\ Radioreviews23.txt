@@ -1,0 +1,2 @@
+
+Please fix the bug! The app consistently dies 3 seconds after I start playing anything in the "Talk" section. And not everything in that section loads- at all.

@@ -1,0 +1,2 @@
+
+terrible latest update 7.28 - app still crashes in launch process. fails to open. app is unusable.

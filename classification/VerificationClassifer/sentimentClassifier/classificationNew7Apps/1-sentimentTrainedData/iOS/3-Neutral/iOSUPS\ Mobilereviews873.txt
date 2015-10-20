@@ -1,0 +1,2 @@
+Does not scan!!
+When I tried scanning the barcode multiple times, it would not scan it.
