@@ -1,3 +1,6 @@
+#Use this code to collect Android user reviews. This code retrives a list of apps from a mongoDB instance and gets the user reviews 
+#for each one and stores it in the DB.
+
 from bs4 import BeautifulSoup
 
 import json
