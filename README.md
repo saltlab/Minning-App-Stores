@@ -1,4 +1,4 @@
-# Minning App Stores
+# Minning iOS and Android App-pairs
 
 A Large Scale Empirical Study on iOS and Android Mobile App-pairs. The repo is split into 
 two directories, where the "Data" directory contains a set of 80,169 app-pairs along with their attributes such as price, rating, stars etc..
