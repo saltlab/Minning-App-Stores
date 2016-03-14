@@ -1,4 +1,4 @@
 
-The following dropbox link contains a zip file for 2003 app-pairs along with thier user reviews.
+The following dropbox link contains a zip file for 2003 app-pairs along with their user reviews. In addition to the reviews, for each app, we include the results of our automated review classifiers and the success scores computed based on our proposed metric.
 
-https://www.dropbox.com/s/wcdlxsnzlkcywww/appPairs2k.json.zip?dl=0&s=sl
+https://www.dropbox.com/sh/swctf1akhvp6sob/AAAtleJyNVPXyDJpR9d_VBxWa?dl=0
